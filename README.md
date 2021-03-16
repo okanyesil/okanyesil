@@ -8,4 +8,3 @@ I am currently a student in computer engineering from Sakarya University.
 
 - :dart: I’m currently learning Docker, Python, Java, JavaScript,Angular etc.
 - :email: myesiloglu0@gmail.com
-- 
