@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 ## 🚀 About Me 
-I am currently a student in computer engineering at Sakarya University.
+I’m currently learning Docker, Python, Java, JavaScript,Angular etc.
 
 
 
