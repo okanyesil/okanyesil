@@ -47,11 +47,10 @@ I’m currently learning Docker, Python, Java, JavaScript,Angular etc.
 ## 🔗 Links
 
 
-[![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0103e403f39e31c4bb)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://okanyesiloglu.medium.com/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/okanyesil)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/okanyesil/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/personal-64ce9.appspot.com/o/cv_okan_yesiloglu.pdf?alt=media&token=87564163-20aa-4fd4-ba28-3faa5e78b31a)
+
 
 
 
